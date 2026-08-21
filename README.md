@@ -4,15 +4,19 @@
 
 I combine creative strategy, data analysis, and artificial intelligence to turn insights into scalable growth systems.
 
-## Currently building
+## Featured projects
 
-**Creative Strategy OS**
+### [Creative Strategy OS](https://github.com/fahidacecile/creative-strategy-os)
 
-An evidence-led AI system that transforms real brand, competitor, advertising, and customer data into creative strategies, ad concepts, and production-ready briefs.
+**Working prototype**
+
+Built from my creative strategy process to make research more structured, consistent, and easier to turn into clear creative decisions. It connects brand, customer, competitor, and advertising evidence to concepts, briefs, and paid-social copy.
+
+### In development
 
 **groUbrand Content OS**
 
-An AI-powered editorial system that transforms trends and ideas into structured, scheduled, and publication-ready content.
+An editorial system designed to turn trends and ideas into structured, scheduled, and publication-ready content.
 
 **SaaS Ads Library**
 
