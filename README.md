@@ -6,17 +6,13 @@ I combine creative strategy, data analysis, and artificial intelligence to turn 
 
 ## Currently building
 
-**Creative Strategy OS**
+**[Creative Strategy OS](https://github.com/fahidacecile/creative-strategy-os)**
 
 An evidence-led AI system that transforms real brand, competitor, advertising, and customer data into creative strategies, ad concepts, and production-ready briefs.
 
-**groUbrand Content OS**
+**[SaaS GTM Intelligence](https://github.com/fahidacecile/saas-gtm-intelligence)**
 
-An AI-powered editorial system that transforms trends and ideas into structured, scheduled, and publication-ready content.
-
-**SaaS Ads Library**
-
-A curated collection of SaaS advertising examples, creative angles, and strategic insights.
+A competitive intelligence POC that helps SaaS growth marketers quickly compare competitor positioning, messages, offers, acquisition channels, and partner programs within a niche.
 
 ## What I work with
 
@@ -24,7 +20,7 @@ A curated collection of SaaS advertising examples, creative angles, and strategi
 - Business intelligence and data analysis
 - Creative strategy for paid social
 - AI-powered workflows and automation
-- Content systems and knowledge management
+- Competitive intelligence and SaaS GTM analysis
 
 ## Current focus
 
