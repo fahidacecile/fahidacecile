@@ -1,36 +1,29 @@
-# Hi, I'm Fahida Cécile
+# Hi, I'm Fahida 👋
 
-### Growth Marketer working across GTM Operations, Business Intelligence, Creative Strategy, and AI-assisted marketing systems
+### Growth Marketer & BI Analyst building AI-powered growth systems
 
-I identify practical marketing problems, structure the methodology, and turn it into a system a team can use. My work combines growth and paid-media thinking, customer and competitive research, business analysis, creative judgment, and AI workflows.
+I combine creative strategy, data analysis, and artificial intelligence to turn insights into scalable growth systems.
 
-## Featured work
+## Currently building
 
-### [Creative Strategy OS](https://github.com/fahidacecile/creative-strategy-os)
+**[Creative Strategy OS](https://github.com/fahidacecile/creative-strategy-os)**
 
-An open, evidence-led system that turns customer, market, competitor, and advertising signals into creative gaps, differentiated concepts, production-ready briefs, paid-social copy, and a testing roadmap.
+An evidence-led AI system that transforms real brand, competitor, advertising, and customer data into creative strategies, ad concepts, and production-ready briefs.
 
-The repository includes two public Agent Skills:
+**[SaaS GTM Intelligence](https://github.com/fahidacecile/saas-gtm-intelligence)**
 
-- [Full Creative Strategy](https://github.com/fahidacecile/creative-strategy-os/blob/main/skills/full-creative-strategy/SKILL.md)
-- [Creative Audit](https://github.com/fahidacecile/creative-strategy-os/blob/main/skills/creative-audit/SKILL.md)
+A competitive intelligence POC that helps SaaS growth marketers quickly compare competitor positioning, messages, offers, acquisition channels, and partner programs within a niche.
 
-### [SaaS GTM Intelligence](https://github.com/fahidacecile/saas-gtm-intelligence)
+## What I work with
 
-A competitive-intelligence proof of concept for SaaS growth marketers. It organizes observable advertising, landing-page, buyer, message, offer, channel, and partner-program signals while keeping source evidence and confidence limits visible.
+- Growth marketing and experimentation
+- Business intelligence and data analysis
+- Creative strategy for paid social
+- AI-powered workflows and automation
+- Competitive intelligence and SaaS GTM analysis
 
-## What I bring
+## Current focus
 
-- Growth marketing, GTM operations, paid media, and creative strategy
-- GTM, competitor, customer, and market intelligence
-- Business intelligence, business analysis, KPI design, dashboards, and CRM thinking
-- AI-assisted research, structured workflows, quality gates, and automation
-- The ability to translate an ambiguous marketing problem into a usable operating system
+Building practical systems at the intersection of **AI, data, creativity, and growth**.
 
-I use AI as a tool for research and system design. The value I add is in the judgment: deciding what evidence matters, interpreting it, finding the strategic gap, writing the idea, and making the output usable.
-
-## Connect
-
-[Portfolio](https://fahidagrowthportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/fmanouana/) · [TikTok](https://www.tiktok.com/@thegrowthanalyst)
-
-Based in France. Open to relevant full-time and freelance opportunities across B2B SaaS, AI, tech, and international teams, with remote or Paris-hybrid working arrangements.
+📍 France · Open to opportunities across France and EMEA
